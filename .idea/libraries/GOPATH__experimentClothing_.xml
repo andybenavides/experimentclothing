@@ -1,0 +1,52 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;experimentClothing&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../goCode/src/datastore" />
+      <root url="file://$PROJECT_DIR$/../goCode/src/google.golang.org" />
+      <root url="file://$PROJECT_DIR$/../goCode/src/github.com" />
+      <root url="file://$PROJECT_DIR$/../goCode/src/golang.org" />
+      <root url="file://$PROJECT_DIR$/../goCode/src/experiment_clothing" />
+      <root url="file://$PROJECT_DIR$/../goCode/src/.DS_Store" />
+      <root url="file://$PROJECT_DIR$/../goCode/src/soundsweb" />
+    </CLASSES>
+    <SOURCES />
+    <excluded>
+      <root url="file://$PROJECT_DIR$/../goCode/src/github.com/golang/protobuf/protoc-gen-go/testdata" />
+      <root url="file://$PROJECT_DIR$/../goCode/src/github.com/andybenavides/CSCI-191T/.git" />
+      <root url="file://$PROJECT_DIR$" />
+      <root url="file://$PROJECT_DIR$/../goCode/src/github.com/andybenavides/gorrillasessions/.git" />
+      <root url="file://$PROJECT_DIR$/../goCode/src/golang.org/x/crypto/sha3/testdata" />
+      <root url="file://$PROJECT_DIR$/../goCode/src/github.com/andybenavides/gorrillasessions/GorillaSessions/.git" />
+      <root url="file://$PROJECT_DIR$/../goCode/src/golang.org/x/net/html/charset/testdata" />
+      <root url="file://$PROJECT_DIR$/../goCode/src/github.com/gorilla/context/.git" />
+      <root url="file://$PROJECT_DIR$/../goCode/src/github.com/golang/protobuf/.git" />
+      <root url="file://$PROJECT_DIR$/../goCode/src/github.com/andybenavides/CSCI-191T/56_twitter/28_code-review/.idea" />
+      <root url="file://$PROJECT_DIR$/../goCode/src/experiment_clothing/assets/_img" />
+      <root url="file://$PROJECT_DIR$/../goCode/src/github.com/gorilla/sessions/.git" />
+      <root url="file://$PROJECT_DIR$/../goCode/src/golang.org/x/net/http2/testdata" />
+      <root url="file://$PROJECT_DIR$/../goCode/src/experiment_clothing/assets/_js" />
+      <root url="file://$PROJECT_DIR$/../goCode/src/github.com/andybenavides/passwordEncryption/.idea" />
+      <root url="file://$PROJECT_DIR$/../goCode/src/golang.org/x/crypto/.git" />
+      <root url="file://$PROJECT_DIR$/../goCode/src/github.com/andybenavides/CSCI-191T/Mail/.idea" />
+      <root url="file://$PROJECT_DIR$/../goCode/src/github.com/andybenavides/gorrillasessions/.idea" />
+      <root url="file://$PROJECT_DIR$/../goCode/src/github.com/gorilla/securecookie/.git" />
+      <root url="file://$PROJECT_DIR$/../goCode/src/github.com/julienschmidt/httprouter/.git" />
+      <root url="file://$PROJECT_DIR$/../goCode/src/github.com/golang/protobuf/proto/testdata" />
+      <root url="file://$PROJECT_DIR$/../goCode/src/github.com/andybenavides/passwordEncryption/.git" />
+      <root url="file://$PROJECT_DIR$/../goCode/src/github.com/andybenavides/memcache/.idea" />
+      <root url="file://$PROJECT_DIR$/../goCode/src/github.com/andybenavides/GoE-mail/.idea" />
+      <root url="file://$PROJECT_DIR$/../goCode/src/github.com/andybenavides/CSCI-191T/.idea" />
+      <root url="file://$PROJECT_DIR$/../goCode/src/github.com/andybenavides/experimentClothing/.idea" />
+      <root url="file://$PROJECT_DIR$/../goCode/src/google.golang.org/appengine/.git" />
+      <root url="file://$PROJECT_DIR$/../goCode/src/github.com/golang/appengine/.git" />
+      <root url="file://$PROJECT_DIR$/../goCode/src/golang.org/x/net/.git" />
+      <root url="file://$PROJECT_DIR$/../goCode/src/github.com/nu7hatch/gouuid/.git" />
+      <root url="file://$PROJECT_DIR$/../goCode/src/github.com/andybenavides/website/.idea" />
+      <root url="file://$PROJECT_DIR$/../goCode/src/golang.org/x/crypto/ssh/testdata" />
+      <root url="file://$PROJECT_DIR$/../goCode/src/golang.org/x/net/html/testdata" />
+      <root url="file://$PROJECT_DIR$/../goCode/src/experiment_clothing/.idea" />
+      <root url="file://$PROJECT_DIR$/../goCode/src/github.com/goestoeleven/golangtraining/GolangTraining/.git" />
+      <root url="file://$PROJECT_DIR$/../goCode/src/github.com/goestoeleven/golangtraining/.git" />
+    </excluded>
+  </library>
+</component>
