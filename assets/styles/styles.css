@@ -92,6 +92,11 @@ nav ul li{
         display: flex;
         justify-content: center;
     }
+
+    nav ul li a:hover::after{
+        width: 100%;
+        background: black;
+    }
 }
 
 nav ul li a{
